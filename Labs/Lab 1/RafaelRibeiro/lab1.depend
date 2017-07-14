@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1491252530 source:c:\users\rjribeiro\documents\lab1\main.c
+	<stdio.h>
+	"dados.h"
+
+1491253061 c:\users\rjribeiro\documents\lab1\dados.h
+
+1491253131 source:c:\users\rjribeiro\documents\lab1\dados.c
+	<stdio.h>
+	"dados.h"
+	<string.h>
+
+1491253131 source:c:\users\rjribeiro\documents\rafaelribeiro\dados.c
+	<stdio.h>
+	"dados.h"
+	<string.h>
+
+1491253061 c:\users\rjribeiro\documents\rafaelribeiro\dados.h
+
+1491252530 source:c:\users\rjribeiro\documents\rafaelribeiro\main.c
+	<stdio.h>
+	"dados.h"
+

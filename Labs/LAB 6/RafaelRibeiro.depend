@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1497357805 source:c:\users\rjribeiro\downloads\rafaelribeiro\implementação.c
+	<stdio.h>
+	<stdlib.h>
+	"abp.h"
+
+1496925164 c:\users\rjribeiro\downloads\rafaelribeiro\abp.h
+
+1496925164 source:c:\users\rjribeiro\downloads\rafaelribeiro\main.c
+	<stdio.h>
+	"abp.h"
+
