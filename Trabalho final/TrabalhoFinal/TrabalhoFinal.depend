@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1500842586 source:c:\users\rafa\google drive\projetos\estrutura de dados\estruturas-de-dados\trabalho final\trabalhofinal\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"interface.h"
+
+1500842517 c:\users\rafa\google drive\projetos\estrutura de dados\estruturas-de-dados\trabalho final\trabalhofinal\interface.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+
+1500843166 source:c:\users\rafa\google drive\projetos\estrutura de dados\estruturas-de-dados\trabalho final\trabalhofinal\implementação.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	"interface.h"
+
