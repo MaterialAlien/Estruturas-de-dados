@@ -1,5 +1,5 @@
 
-O tempo gasto no processamento do arquivo wiki.txt foi de 1026872 ms
+O tempo gasto no processamento do arquivo wiki.txt foi de 1026832 ms
 
 abe:
      0000025972 - abencoadamente
@@ -3726,4 +3726,4 @@ zombie:
      0000000002 - zombiepussy
      0000000000 - zombielandia
 
-O tempo gasto no processamento dos arquivos consulta.txt e saida.txt foi de 5850 ms
+O tempo gasto no processamento dos arquivos consulta.txt e saida.txt foi de 5700 ms
