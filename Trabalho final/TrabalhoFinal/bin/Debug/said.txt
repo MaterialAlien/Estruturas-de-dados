@@ -12,6 +12,16 @@ abe:
      0000001290 - abertura
      0000000869 - abertas
      0000000779 - abelhas
+     0000000647 - aberracao
+     0000000638 - abelha
+     0000000610 - abencoado
+     0000000558 - abel
+     0000000413 - abertamente
+     0000000351 - abencoada
+     0000000282 - abencoados
+     0000000239 - aberracoes
+     0000000178 - abencoar
+     0000000113 - abencoou
 
 acab:
      0000022988 - acabou
@@ -24,6 +34,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -36,6 +56,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -48,6 +78,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -60,6 +100,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -72,6 +122,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -84,6 +141,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -99,6 +166,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -111,6 +188,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -123,6 +210,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -135,6 +232,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombie:
      0000026989 - zombielandiami
@@ -154,6 +261,16 @@ abe:
      0000001290 - abertura
      0000000869 - abertas
      0000000779 - abelhas
+     0000000647 - aberracao
+     0000000638 - abelha
+     0000000610 - abencoado
+     0000000558 - abel
+     0000000413 - abertamente
+     0000000351 - abencoada
+     0000000282 - abencoados
+     0000000239 - aberracoes
+     0000000178 - abencoar
+     0000000113 - abencoou
 
 acab:
      0000022988 - acabou
@@ -166,6 +283,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -178,6 +305,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -190,6 +327,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -202,6 +349,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -214,6 +371,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -226,6 +390,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -241,6 +415,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -253,6 +437,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -265,6 +459,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -277,6 +481,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombie:
      0000026989 - zombielandiami
@@ -296,6 +510,16 @@ abe:
      0000001290 - abertura
      0000000869 - abertas
      0000000779 - abelhas
+     0000000647 - aberracao
+     0000000638 - abelha
+     0000000610 - abencoado
+     0000000558 - abel
+     0000000413 - abertamente
+     0000000351 - abencoada
+     0000000282 - abencoados
+     0000000239 - aberracoes
+     0000000178 - abencoar
+     0000000113 - abencoou
 
 acab:
      0000022988 - acabou
@@ -308,6 +532,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -320,6 +554,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -332,6 +576,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -344,6 +598,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -356,6 +620,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -368,6 +639,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -383,6 +664,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -395,6 +686,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -407,6 +708,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -419,6 +730,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -434,6 +755,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -446,6 +777,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -458,6 +799,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -470,6 +821,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -482,6 +843,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -494,6 +862,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -509,6 +887,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -521,6 +909,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -533,6 +931,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -545,6 +953,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombie:
      0000026989 - zombielandiami
@@ -564,6 +982,16 @@ abe:
      0000001290 - abertura
      0000000869 - abertas
      0000000779 - abelhas
+     0000000647 - aberracao
+     0000000638 - abelha
+     0000000610 - abencoado
+     0000000558 - abel
+     0000000413 - abertamente
+     0000000351 - abencoada
+     0000000282 - abencoados
+     0000000239 - aberracoes
+     0000000178 - abencoar
+     0000000113 - abencoou
 
 acab:
      0000022988 - acabou
@@ -576,6 +1004,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -588,6 +1026,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -600,6 +1048,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -612,6 +1070,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -624,6 +1092,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -636,6 +1111,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -651,6 +1136,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -663,6 +1158,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -675,6 +1180,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -687,6 +1202,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -702,6 +1227,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -714,6 +1249,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -726,6 +1271,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -738,6 +1293,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -750,6 +1315,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -762,6 +1334,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -777,6 +1359,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -789,6 +1381,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -801,6 +1403,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -813,6 +1425,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -828,6 +1450,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -840,6 +1472,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -852,6 +1494,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -864,6 +1516,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -876,6 +1538,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -888,6 +1557,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -903,6 +1582,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -915,6 +1604,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -927,6 +1626,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -939,6 +1648,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -954,6 +1673,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -966,6 +1695,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -978,6 +1717,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -990,6 +1739,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -1002,6 +1761,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -1014,6 +1780,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -1029,6 +1805,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -1041,6 +1827,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -1053,6 +1849,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -1065,6 +1871,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -1080,6 +1896,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -1092,6 +1918,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -1104,6 +1940,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -1116,6 +1962,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -1128,6 +1984,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -1140,6 +2003,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -1155,6 +2028,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -1167,6 +2050,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -1179,6 +2072,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -1191,6 +2094,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -1206,6 +2119,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -1218,6 +2141,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -1230,6 +2163,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -1242,6 +2185,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -1254,6 +2207,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -1266,6 +2226,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -1281,6 +2251,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -1293,6 +2273,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -1305,6 +2295,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -1317,6 +2317,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -1332,6 +2342,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -1344,6 +2364,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -1356,6 +2386,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -1368,6 +2408,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -1380,6 +2430,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -1392,6 +2449,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -1407,6 +2474,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -1419,6 +2496,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -1431,6 +2518,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -1443,6 +2540,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -1458,6 +2565,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -1470,6 +2587,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -1482,6 +2609,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -1494,6 +2631,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -1506,6 +2653,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -1518,6 +2672,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -1533,6 +2697,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -1545,6 +2719,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -1557,6 +2741,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -1569,6 +2763,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -1584,6 +2788,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -1596,6 +2810,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -1608,6 +2832,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -1620,6 +2854,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -1632,6 +2876,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -1644,6 +2895,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -1659,6 +2920,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -1671,6 +2942,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -1683,6 +2964,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -1695,6 +2986,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -1710,6 +3011,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -1722,6 +3033,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -1734,6 +3055,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -1746,6 +3077,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -1758,6 +3099,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -1770,6 +3118,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -1785,6 +3143,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -1797,6 +3165,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -1809,6 +3187,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -1821,6 +3209,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -1836,6 +3234,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -1848,6 +3256,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -1860,6 +3278,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -1872,6 +3300,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -1884,6 +3322,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -1896,6 +3341,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -1911,6 +3366,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -1923,6 +3388,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -1935,6 +3410,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -1947,6 +3432,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -1962,6 +3457,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -1974,6 +3479,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -1986,6 +3501,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -1998,6 +3523,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -2010,6 +3545,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -2022,6 +3564,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -2037,6 +3589,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -2049,6 +3611,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -2061,6 +3633,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -2073,6 +3655,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -2088,6 +3680,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -2100,6 +3702,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -2112,6 +3724,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -2124,6 +3746,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -2136,6 +3768,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -2148,6 +3787,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -2163,6 +3812,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -2175,6 +3834,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -2187,6 +3856,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -2199,6 +3878,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -2214,6 +3903,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -2226,6 +3925,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -2238,6 +3947,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -2250,6 +3969,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -2262,6 +3991,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -2274,6 +4010,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -2289,6 +4035,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -2301,6 +4057,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -2313,6 +4079,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -2325,6 +4101,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -2340,6 +4126,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -2352,6 +4148,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -2364,6 +4170,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -2376,6 +4192,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -2388,6 +4214,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -2400,6 +4233,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -2415,6 +4258,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -2427,6 +4280,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -2439,6 +4302,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -2451,6 +4324,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -2466,6 +4349,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -2478,6 +4371,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -2490,6 +4393,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -2502,6 +4415,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -2514,6 +4437,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -2526,6 +4456,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -2541,6 +4481,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -2553,6 +4503,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -2565,6 +4525,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -2577,6 +4547,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -2592,6 +4572,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -2604,6 +4594,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -2616,6 +4616,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -2628,6 +4638,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -2640,6 +4660,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -2652,6 +4679,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -2667,6 +4704,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -2679,6 +4726,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -2691,6 +4748,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -2703,6 +4770,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -2718,6 +4795,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -2730,6 +4817,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -2742,6 +4839,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -2754,6 +4861,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -2766,6 +4883,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -2778,6 +4902,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -2793,6 +4927,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -2805,6 +4949,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -2817,6 +4971,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -2829,6 +4993,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -2844,6 +5018,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -2856,6 +5040,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -2868,6 +5062,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -2880,6 +5084,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -2892,6 +5106,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -2904,6 +5125,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -2919,6 +5150,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -2931,6 +5172,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -2943,6 +5194,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -2955,6 +5216,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -2970,6 +5241,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -2982,6 +5263,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -2994,6 +5285,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -3006,6 +5307,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -3018,6 +5329,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -3030,6 +5348,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -3045,6 +5373,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -3057,6 +5395,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -3069,6 +5417,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -3081,6 +5439,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -3096,6 +5464,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -3108,6 +5486,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -3120,6 +5508,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -3132,6 +5530,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -3144,6 +5552,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -3156,6 +5571,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -3171,6 +5596,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -3183,6 +5618,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -3195,6 +5640,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -3207,6 +5662,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -3222,6 +5687,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -3234,6 +5709,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -3246,6 +5731,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -3258,6 +5753,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -3270,6 +5775,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -3282,6 +5794,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -3297,6 +5819,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -3309,6 +5841,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -3321,6 +5863,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -3333,6 +5885,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -3348,6 +5910,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -3360,6 +5932,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -3372,6 +5954,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -3384,6 +5976,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -3396,6 +5998,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -3408,6 +6017,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -3423,6 +6042,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -3435,6 +6064,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -3447,6 +6086,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -3459,6 +6108,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -3474,6 +6133,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -3486,6 +6155,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -3498,6 +6177,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -3510,6 +6199,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -3522,6 +6221,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -3534,6 +6240,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -3549,6 +6265,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -3561,6 +6287,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -3573,6 +6309,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -3585,6 +6331,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombieabe:
      Nenhum resultado encontrado
@@ -3600,6 +6356,16 @@ acab:
      0000002468 - acabaram
      0000002270 - acabe
      0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabara
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
 
 surp:
      1953391981 - surprendentement
@@ -3612,6 +6378,16 @@ surp:
      0007565165 - surpeendessemos
      0007302765 - surpreenderamno
      0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendiamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendessem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
 
 re:
      1953720686 - ressurreicionist
@@ -3624,6 +6400,16 @@ re:
      1936941434 - responsabilizass
      1936684142 - refinanciamentos
      1936682354 - reestabelecermos
+     1936682341 - reabastecessemos
+     1936682341 - reaproximassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliassemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruissemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizassemos
+     1936682337 - reconstruiriamos
+     1936682337 - reencontrariamos
 
 qe:
      0000000030 - qeu
@@ -3636,6 +6422,16 @@ qe:
      0000000001 - qea
      0000000001 - qee
      0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
 
 julgar:
      0000000055 - julgara
@@ -3648,6 +6444,13 @@ julgar:
      0000000009 - julgarmos
      0000000008 - julgariam
      0000000005 - julgardes
+     0000000003 - julgariamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgaras
+     0000000001 - julgara
 
 gr:
      1969579118 - gruppenkommandeu
@@ -3660,6 +6463,16 @@ gr:
      0007565170 - grandescerebros
      0007565165 - grandessissimos
      0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloquencia
+     0000069117 - grande
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+     0000029545 - gravitacionais
 
 http:
      Nenhum resultado encontrado
@@ -3675,6 +6488,16 @@ en:
      1936942445 - encontrarseumess
      1936682345 - encrencadissimos
      1936682341 - envergonhassemos
+     1936682341 - entrevistassemos
+     1936682337 - envergonhariamos
+     1936682337 - enlouqueceriamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entaohouvemaispr
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1868657778 - entrarpeloportao
+     1852140897 - ensurdecedoramen
 
 ma:
      2054447468 - maximiliansplatz
@@ -3687,6 +6510,16 @@ ma:
      1919250024 - mandellkirschner
      1870031219 - maniacodepresivo
      1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmagico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1769107316 - magicaobrigatori
+     1768448865 - masparaondenachi
 
 lyn:
      0000000550 - lynn
@@ -3699,6 +6532,16 @@ lyn:
      0000000016 - lyngvig
      0000000011 - lynde
      0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
 
 investiga:
      1752066426 - investigadorzinh
@@ -3711,6 +6554,16 @@ investiga:
      0000029550 - investigations
      0000029541 - investigadores
      0000029541 - investigacines
+     0000029541 - investigaccoes
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigacao
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigasses
+     0000000115 - investigarmos
 
 zombie:
      0000026989 - zombielandiami
@@ -3726,4 +6579,4 @@ zombie:
      0000000002 - zombiepussy
      0000000000 - zombielandia
 
-O tempo gasto no processamento dos arquivos consulta.txt e saida.txt foi de 5521 ms
+O tempo gasto no processamento dos arquivos consulta.txt e saida.txt foi de 5596 ms

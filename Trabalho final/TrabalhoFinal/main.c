@@ -125,6 +125,6 @@ main(int argc, char *argv[])
     fclose(arquivoSaida);
 
     /*Mensagem final indicando que o programa terminou sua execução com sucesso*/
-    printf("\nDados processados com suceso. Consulte o resultado em %s\n","saida.txt");
+    printf("\nDados processados com suceso. Consulte o resultado em %s\n",argv[3]);
 }
 
