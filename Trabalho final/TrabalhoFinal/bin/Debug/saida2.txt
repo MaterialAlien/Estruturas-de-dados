@@ -1,0 +1,6582 @@
+
+O tempo gasto no processamento do arquivo wiki.txt foi de 1026853 ms
+
+abe:
+     0000025972 - abençoadamente
+     0000025972 - aberrantemente
+     0000024936 - aberraçãozinha
+     0000004083 - aberta
+     0000003703 - aberto
+     0000002667 - abençoe
+     0000001824 - abertos
+     0000001290 - abertura
+     0000000869 - abertas
+     0000000779 - abelhas
+     0000000647 - aberração
+     0000000638 - abelha
+     0000000610 - abençoado
+     0000000558 - abel
+     0000000413 - abertamente
+     0000000351 - abençoada
+     0000000282 - abençoados
+     0000000239 - aberrações
+     0000000178 - abençoar
+     0000000113 - abençoou
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombie:
+     0000026989 - zombielandiami
+     0000000041 - zombies
+     0000000006 - zombiebr
+     0000000002 - zombiepussy
+     0000000000 - zombielandia
+
+abe:
+     0000025972 - abençoadamente
+     0000025972 - aberrantemente
+     0000024936 - aberraçãozinha
+     0000004083 - aberta
+     0000003703 - aberto
+     0000002667 - abençoe
+     0000001824 - abertos
+     0000001290 - abertura
+     0000000869 - abertas
+     0000000779 - abelhas
+     0000000647 - aberração
+     0000000638 - abelha
+     0000000610 - abençoado
+     0000000558 - abel
+     0000000413 - abertamente
+     0000000351 - abençoada
+     0000000282 - abençoados
+     0000000239 - aberrações
+     0000000178 - abençoar
+     0000000113 - abençoou
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombie:
+     0000026989 - zombielandiami
+     0000000041 - zombies
+     0000000006 - zombiebr
+     0000000002 - zombiepussy
+     0000000000 - zombielandia
+
+abe:
+     0000025972 - abençoadamente
+     0000025972 - aberrantemente
+     0000024936 - aberraçãozinha
+     0000004083 - aberta
+     0000003703 - aberto
+     0000002667 - abençoe
+     0000001824 - abertos
+     0000001290 - abertura
+     0000000869 - abertas
+     0000000779 - abelhas
+     0000000647 - aberração
+     0000000638 - abelha
+     0000000610 - abençoado
+     0000000558 - abel
+     0000000413 - abertamente
+     0000000351 - abençoada
+     0000000282 - abençoados
+     0000000239 - aberrações
+     0000000178 - abençoar
+     0000000113 - abençoou
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombie:
+     0000026989 - zombielandiami
+     0000000041 - zombies
+     0000000006 - zombiebr
+     0000000002 - zombiepussy
+     0000000000 - zombielandia
+
+abe:
+     0000025972 - abençoadamente
+     0000025972 - aberrantemente
+     0000024936 - aberraçãozinha
+     0000004083 - aberta
+     0000003703 - aberto
+     0000002667 - abençoe
+     0000001824 - abertos
+     0000001290 - abertura
+     0000000869 - abertas
+     0000000779 - abelhas
+     0000000647 - aberração
+     0000000638 - abelha
+     0000000610 - abençoado
+     0000000558 - abel
+     0000000413 - abertamente
+     0000000351 - abençoada
+     0000000282 - abençoados
+     0000000239 - aberrações
+     0000000178 - abençoar
+     0000000113 - abençoou
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombieabe:
+     Nenhum resultado encontrado
+
+acab:
+     0000022988 - acabou
+     0000013970 - acabar
+     0000008277 - acabei
+     0000006718 - acaba
+     0000004730 - acabado
+     0000003264 - acabamos
+     0000003014 - acabo
+     0000002468 - acabaram
+     0000002270 - acabe
+     0000001653 - acabando
+     0000001363 - acabam
+     0000001218 - acabará
+     0000000659 - acabaria
+     0000000499 - acabem
+     0000000485 - acabada
+     0000000367 - acabados
+     0000000295 - acabava
+     0000000279 - acabarem
+     0000000271 - acabarmos
+     0000000254 - acabaremos
+
+surp:
+     1953391981 - surprendentement
+     1953391981 - surpeendentement
+     1918985061 - surpreendentecar
+     1852140901 - surpreendentemen
+     1702129253 - surpreendendente
+     1701668212 - surpreeendenteme
+     0007565165 - surpreenderemos
+     0007565165 - surpeendêssemos
+     0007302765 - surpreenderamno
+     0006648942 - surpreendemente
+     0006648673 - surpreenderiase
+     0006381921 - surpreeesaaaaaa
+     0000029551 - surpreendíamos
+     0000029551 - surpreendermos
+     0000029541 - surpreenderdes
+     0000029541 - surpreendentes
+     0000028005 - surpreendêssem
+     0000028005 - surpreendessem
+     0000028001 - surpreenderiam
+     0000025972 - surpreeendente
+
+re:
+     1953720686 - ressurreicionist
+     1953391981 - recondicionament
+     1953391981 - redesenvolviment
+     1953391981 - redimensionament
+     1953391981 - reestabeleciment
+     1953391981 - resenquenciament
+     1944740719 - representarvocês
+     1936941434 - responsabilizass
+     1936941434 - responsabilizass
+     1936684142 - refinanciamentos
+     1936682354 - reestabelecermos
+     1936682341 - reabastecêssemos
+     1936682341 - reaproximássemos
+     1936682341 - reconciliassemos
+     1936682341 - reconciliássemos
+     1936682341 - reconsideraremos
+     1936682341 - reconstruíssemos
+     1936682341 - redistribuiremos
+     1936682341 - regularizássemos
+     1936682337 - reconstruiríamos
+
+qe:
+     0000000030 - qeu
+     0000000014 - qem
+     0000000009 - qetesh
+     0000000004 - qer
+     0000000004 - qero
+     0000000003 - qeur
+     0000000001 - qea
+     0000000001 - qee
+     0000000001 - qeles
+     0000000001 - qeneral
+     0000000001 - qente
+     0000000001 - qentrar
+     0000000001 - qeremos
+     0000000001 - qerer
+     0000000001 - qeria
+     0000000001 - qerida
+     0000000001 - qeuero
+     0000000001 - qeum
+     0000000001 - qeurendo
+     0000000001 - qeve
+
+julgar:
+     0000000055 - julgará
+     0000000048 - julgaram
+     0000000038 - julgarei
+     0000000037 - julgarão
+     0000000025 - julgaria
+     0000000022 - julgarem
+     0000000016 - julgaremos
+     0000000009 - julgarmos
+     0000000008 - julgariam
+     0000000005 - julgardes
+     0000000003 - julgaríamos
+     0000000003 - julgares
+     0000000002 - julgaro
+     0000000001 - julgarás
+     0000000001 - julgarias
+     0000000001 - julgaresse
+     0000000001 - julgara
+
+gr:
+     1969579118 - gruppenkommandeu
+     1852140908 - gravitacionalmen
+     1835365235 - grandeshomenssem
+     1702126957 - grupovirtucomete
+     1702064993 - grunewaldstrasse
+     0007957612 - gravitationally
+     0007631721 - grammarianarist
+     0007565170 - grandescerebros
+     0007565165 - grandessíssimos
+     0007563617 - grandesarsenais
+     0007562612 - grandiloquentes
+     0007561588 - gritinhosjuntas
+     0007497075 - gregolstrausser
+     0007303785 - grandecavaleiro
+     0006648942 - gramaticalmente
+     0006383971 - grandiloqüência
+     0000069117 - grande
+     0000058220 - gravitacionalã
+     0000029554 - groundbreakers
+     0000029551 - gradessissimos
+
+http:
+     Nenhum resultado encontrado
+
+en:
+     1970564709 - encarnarajuventu
+     1953396074 - envelhecemosjunt
+     1953391981 - entusiasticament
+     1953391981 - entusiasmadament
+     1953391981 - entrecortadament
+     1953391981 - enlouquecidament
+     1953391981 - enfurecedorament
+     1936942445 - encontrarseumess
+     1936682345 - encrencadíssimos
+     1936682341 - envergonhássemos
+     1936682341 - entrevistássemos
+     1936682337 - envergonharíamos
+     1936682337 - enlouqueceríamos
+     1936680033 - encriptografados
+     1936024681 - endocanabinoides
+     1919972201 - entãohouvemaispr
+     1877177458 - entrarpeloportão
+     1869899116 - entregampanfleto
+     1868852833 - entretercortando
+     1852140897 - ensurdecedoramen
+
+ma:
+     2054447468 - maximiliansplatz
+     1953656685 - masapesardosmort
+     1953391981 - maquiavélicament
+     1936682345 - magnífiquíssimos
+     1936680033 - maiscertificados
+     1935766643 - manutencionistas
+     1920164206 - masaspessoasnasr
+     1919250024 - mandellkirschner
+     1870031219 - maníacodepresivo
+     1869901423 - malagolintomonto
+     1869901413 - malfuncionamento
+     1869899630 - mandaemwashingto
+     1869837417 - makittaqanngitso
+     1868852833 - macacosbrincando
+     1868786023 - marcadoresmágico
+     1852404734 - mahalindeymiþsin
+     1852142181 - maselaeradlferen
+     1852138351 - marionetesinocen
+     1768448865 - masparaondenachi
+     1768254063 - masnãoháoutrojei
+
+lyn:
+     0000000550 - lynn
+     0000000493 - lynch
+     0000000153 - lynne
+     0000000129 - lyndon
+     0000000073 - lynette
+     0000000058 - lynda
+     0000000017 - lynyrd
+     0000000016 - lyngvig
+     0000000011 - lynde
+     0000000010 - lynxette
+     0000000010 - lynard
+     0000000009 - lynskey
+     0000000008 - lynd
+     0000000007 - lynchburg
+     0000000006 - lynndie
+     0000000005 - lynnie
+     0000000005 - lynley
+     0000000005 - lynetta
+     0000000005 - lyndel
+     0000000004 - lynchs
+
+investiga:
+     1752066426 - investigaçãozinh
+     1752066426 - investigadorzinh
+     0007565165 - investigassemos
+     0000029551 - investigativos
+     0000029551 - investigaremos
+     0000029550 - investigations
+     0000029541 - investigaçcões
+     0000029541 - investigadores
+     0000029541 - investigacines
+     0000029537 - investigativas
+     0000029537 - investigadoras
+     0000003584 - investigação
+     0000001629 - investigar
+     0000000768 - investigando
+     0000000512 - investigador
+     0000000214 - investigado
+     0000000115 - investigaçöes
+     0000000115 - investigações
+     0000000115 - investigaçôes
+     0000000115 - investigaçoes
+
+zombie:
+     0000026989 - zombielandiami
+     0000000041 - zombies
+     0000000006 - zombiebr
+     0000000002 - zombiepussy
+     0000000000 - zombielandia
+
+zombie:
+     0000026989 - zombielandiami
+     0000000041 - zombies
+     0000000006 - zombiebr
+     0000000002 - zombiepussy
+     0000000000 - zombielandia
+
+O tempo gasto no processamento dos arquivos consulta.txt e saida.txt foi de 4990 ms
